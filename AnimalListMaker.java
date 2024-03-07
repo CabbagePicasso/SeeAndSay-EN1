@@ -1,6 +1,7 @@
 package SeeAndSay;
 
-import SeeAndSay.AnimalImpl.dkatz3;
+import SeeAndSay.AnimalImpl.*;
+import SeeAndSay.AnimalImpl.jos129715;
 
 import java.util.Collections;
 import java.util.LinkedList;
@@ -29,7 +30,7 @@ public class AnimalListMaker {
 		//animalList.add(new ga1073076());
 		//animalList.add(new ga1178074());
 		//animalList.add(new is1145345());
-		//animalList.add(new jos129715());
+		animalList.add(new jos129715());
 		//animalList.add(new ko1168371());
 		//animalList.add(new lu1127103());
 		//animalList.add(new mi1156959());
