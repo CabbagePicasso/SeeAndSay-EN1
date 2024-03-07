@@ -20,6 +20,6 @@ public class lu1127103 extends Animal implements Talker {
     }
     @Override
     public String getDescription() {
-        return "A rodent that chucks wood.";
+        return "A rodent that chucks wood and makes dams.";
     }
 }
