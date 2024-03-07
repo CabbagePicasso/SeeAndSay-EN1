@@ -3,24 +3,27 @@ package SeeAndSay.AnimalImpl;
 import SeeAndSay.Animal;
 import SeeAndSay.Talker;
 
-public class mi1156959 extends Animal implements Talker {
+public class sa1153877 extends Animal implements Talker {
 
     @Override
     public String getAuthor() {
-        return "Ethan Milligan";
+        return "Abby Salisbury";
     }
 
     @Override
     public String getAnimalName() {
-        return "Dodo";
+        return "Shark";
     }
 
     @Override
+    //BBC Science Focus (sharks don't make sound don't trust Jaws 4)
     public String getSound() {
-        return "Coo-coo";
+        return "I can smell blood from around a quarter mile away.";
     }
+
     @Override
     public String getDescription() {
-        return "Extinct Bird";
+        return "Eager Shark";
     }
+
 }

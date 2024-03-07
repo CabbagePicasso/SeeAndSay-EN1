@@ -4,7 +4,6 @@ import SeeAndSay.Animal;
 import SeeAndSay.Talker;
 
 public class dkatz3 extends Animal implements Talker {
-
     @Override
     public String getAuthor() {
         return "David Katz";
@@ -12,17 +11,17 @@ public class dkatz3 extends Animal implements Talker {
 
     @Override
     public String getAnimalName() {
-        return "Wolf";
+        return "Chameleon";
     }
 
     @Override
     //I'm not citing my sources
     public String getSound() {
-        return "I huff and I puff";
+        return "I can change colors, eat insects, and commit cannibalism.";
     }
 
     @Override
     public String getDescription() {
-        return "Big and Bad";
+        return "Very lizard";
     }
 }
