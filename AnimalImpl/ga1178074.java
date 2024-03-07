@@ -3,26 +3,26 @@ package SeeAndSay.AnimalImpl;
 import SeeAndSay.Animal;
 import SeeAndSay.Talker;
 
-public class dkatz3 extends Animal implements Talker {
+public class ga1178074 extends Animal implements Talker {
 
     @Override
     public String getAuthor() {
-        return "David Katz";
+        return "Samik Gahatraj";
     }
 
     @Override
     public String getAnimalName() {
-        return "Wolf";
+        return "Devoted Leopard";
     }
 
     @Override
-    //I'm not citing my sources
     public String getSound() {
-        return "I huff and I puff";
+        return "I kill herbivores, and I am a Leopard, who is devoted.";
     }
 
-    @Override
     public String getDescription() {
-        return "Big and Bad";
+        return "i have spots on my body";
     }
+
+
 }
