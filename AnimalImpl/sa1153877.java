@@ -3,24 +3,23 @@ package SeeAndSay.AnimalImpl;
 import SeeAndSay.Animal;
 import SeeAndSay.Talker;
 
-public class mi1156959 extends Animal implements Talker {
-
+public class lu1127103 extends Animal implements Talker {
     @Override
     public String getAuthor() {
-        return "Ethan Milligan";
+        return "Ariel Luces";
     }
 
     @Override
     public String getAnimalName() {
-        return "Dodo";
+        return "Witty Beaver";
     }
 
     @Override
     public String getSound() {
-        return "Coo-coo";
+        return "I hiss, I grunt, I scream.";
     }
     @Override
     public String getDescription() {
-        return "Extinct Bird";
+        return "chuck";
     }
 }
