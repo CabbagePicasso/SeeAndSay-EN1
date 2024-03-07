@@ -21,7 +21,7 @@ public class AnimalListMaker {
 
 		/* EN1 Section */
 
-		//animalList.add(new bo1145485());
+		animalList.add(new bo1145485());
 		//animalList.add(new brow90400());
 		//animalList.add(new ca1165663());
 		//animalList.add(new ch1106737());
