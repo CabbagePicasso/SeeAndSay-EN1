@@ -1,10 +1,6 @@
 package SeeAndSay;
 
 import SeeAndSay.AnimalImpl.*;
-<<<<<<< HEAD
-import SeeAndSay.AnimalImpl.jos129715;
-=======
->>>>>>> 00202732d598e0c96dde3173d06265429f351566
 
 import java.util.Collections;
 import java.util.LinkedList;
