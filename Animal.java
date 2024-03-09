@@ -14,7 +14,7 @@ public abstract class Animal implements Talker {
     }
 
     public String getDescription() {
-        return "Override this method in your own class.";
+        return "I have slender body with short legs.";
     }
 
     public abstract String getAuthor();
