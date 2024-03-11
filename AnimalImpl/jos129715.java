@@ -1,25 +1,24 @@
 package SeeAndSay.AnimalImpl;
-
-import SeeAndSay.Animal;
 import SeeAndSay.Talker;
+import SeeAndSay.Animal;
 
-public class lu1127103 extends Animal implements Talker {
+public class jos129715 extends Animal implements Talker {
     @Override
     public String getAuthor() {
-        return "Ariel Luces";
+        return "Logan Joseph";
     }
 
     @Override
     public String getAnimalName() {
-        return "Witty Beaver";
+        return "Elephant";
     }
 
     @Override
     public String getSound() {
-        return "I hiss, I grunt, I scream.";
+        return "Im a elephant and im very big ";
     }
     @Override
     public String getDescription() {
-        return "A rodent that chucks wood and makes dams.";
+        return "Quick elephant";
     }
 }
