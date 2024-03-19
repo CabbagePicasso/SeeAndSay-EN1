@@ -21,7 +21,7 @@ public class AnimalListMaker {
 
         /* EN1 Section */
 
-<<<<<<< HEAD
+
 		animalList.add(new bo1145485());
 		//animalList.add(new brow90400());
 		//animalList.add(new ca1165663());
@@ -43,7 +43,7 @@ public class AnimalListMaker {
 		//animalList.add(new til864760());
 		animalList.add(new ur1124787());
 		//animalList.add(new vi1085322());
-=======
+
         animalList.add(new bo1145485());
 	//animalList.add(new brow90400());
 	//animalList.add(new ca1165663());
@@ -65,7 +65,7 @@ public class AnimalListMaker {
 	animalList.add(new til864760());
         animalList.add(new ur1124787());
         //animalList.add(new vi1085322());
->>>>>>> 0175b74bf73bf3077c9f211a8ea311923a46b3ad
+
 
 
     }

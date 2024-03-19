@@ -19,4 +19,9 @@ public class th1151057 extends Animal {
 
 
     }
+
+    @Override
+    public String getDescription() {
+        return "I have slender body with short legs.";
+    }
 }
