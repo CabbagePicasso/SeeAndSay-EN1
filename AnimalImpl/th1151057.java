@@ -5,7 +5,7 @@ import SeeAndSay.Animal;
 public class th1151057 extends Animal {
     @Override
     public String getAuthor() {
-        return "th1151057";
+        return "AJ Thapa";
     }
 
     @Override
