@@ -1,28 +1,27 @@
 package SeeAndSay.AnimalImpl;
-
 import SeeAndSay.Animal;
 import SeeAndSay.Talker;
+import SeeAndSay.AnimalListMaker;
 
-public class dkatz3 extends Animal implements Talker {
+public class ch1106737 extends Animal implements Talker {
 
     @Override
     public String getAuthor() {
-        return "David Katz";
+        return "Marcus Charles";
     }
 
     @Override
     public String getAnimalName() {
-        return "Wolf";
+        return "Crocodile";
     }
 
     @Override
-    //I'm not citing my sources
     public String getSound() {
-        return "I huff and I puff";
+        return "Proud owner of the strongest bite force in the animal kingdom.";
     }
 
     @Override
     public String getDescription() {
-        return "Big and Bad";
+        return "Wise crocodile";
     }
 }
